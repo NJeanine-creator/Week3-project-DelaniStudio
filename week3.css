@@ -55,6 +55,17 @@ h4{
 }
 .row{
   padding:2%;
+  box-sizing:border-box;
+}
+.rows::after{
+  content:"";
+  clear:both;
+  display: table;
+}
+.column{
+  float:left;
+  width: 33.33%;
+  padding: 5px;
 }
 .Contact-Us {
   background-image: url(c_image.jpg);
