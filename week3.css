@@ -57,7 +57,7 @@ h4{
   padding:2%;
 }
 .Contact-Us {
-  background-image: url(backgrounds/c_image.jpg);
+  background-image: url(c_image.jpg);
   background-size:cover;
   display: cover;
   padding: 10%;
